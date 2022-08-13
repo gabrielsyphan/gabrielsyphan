@@ -8,7 +8,7 @@ Full Stack Developer
 
 - 🎓 Graduating in Information Systems at the Federal Institute of Alagoas - IFAL Campus Maceió
 
-- 🏆 3º at the Open Innovation Tourism Hackathon in Maceió, developing ![Orditi](https://www.orditi.com/).
+- 🏆 3º at the Open Innovation Tourism Hackathon in Maceió, developing [Orditi](https://www.orditi.com/).
 
 - ⚙️ Passionate about technology, I always seek to automate my work processes.
 
