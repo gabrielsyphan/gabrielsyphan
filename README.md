@@ -12,6 +12,6 @@ Full Stack Developer
 
 - ⚙️ Passionate about technology, I always seek to automate my work processes.
 
-- 🎸 I am self-taught and play several instruments such as guitar, cavaco and ukulele.
+- 🎸 I'm self-taught and play several instruments such as guitar, cavaco and ukulele.
 
 - 💻 Technologies I use: ![SpringBoot](https://img.shields.io/badge/-Java%20SpringBoot-green?style=flat&logo=Springboot&logoColor=fff) ![Quarkus](https://img.shields.io/badge/-Java%20Quarkus-blue?style=flat&logo=quarkus&logoColor=fff) ![MySQL](https://img.shields.io/badge/-Mysql-orange?style=flat&logo=mysql&logoColor=fff) ![Postgresql](https://img.shields.io/badge/-Postgresql-blue?style=flat&logo=postgresql&logoColor=fff) ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react&logoColor=fff) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript) ![Angular](https://img.shields.io/badge/-Angular-eb4634?style=flat&logo=angular&logoColor=fff) ![PHP](https://img.shields.io/badge/-PHP-563D7C?style=flat&logo=PHP) ![Ionic](https://img.shields.io/badge/-Ionic-white?style=flat&logo=Ionic) ![Typescript](https://img.shields.io/badge/-Typescript-blue?style=flat&logo=typescript&logoColor=fff) ![Leaflet](https://img.shields.io/badge/-Leaflet-green?style=flat&logo=leaflet) ![Git](https://img.shields.io/badge/-Git-orange?style=flat&logo=Git&logoColor=fff)
