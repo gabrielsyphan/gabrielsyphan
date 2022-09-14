@@ -2,7 +2,7 @@
 
 Full Stack Developer
 
-[![LinkedIn](https://img.shields.io/badge/-gabrielsyphan-blue?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/gabrielsyphan/)](https://www.linkedin.com/in/gabrielsyphan/ "LinkedIn") [![Instagram](https://img.shields.io/badge/-@gabrielsyphan-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/gabrielsyphan/)](https://instagram.com/gabrielsyphan "Instagram") [![Telegram](https://img.shields.io/badge/-@gabrielsyphan-0088CC?style=flat&logo=Telegram&logoColor=white&link=https://t.me/gabrielsyphan/)](https://t.me/gabrielsyphan "Telegram") [![E-mail](https://img.shields.io/badge/-contato@gabrielsyphan.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:gabriel@syphan.com.br)](mailto:contato@gabrielsyphan.com "E-mail")
+[![LinkedIn](https://img.shields.io/badge/-gabrielsyphan-blue?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/gabrielsyphan/)](https://www.linkedin.com/in/gabrielsyphan/ "LinkedIn") [![Instagram](https://img.shields.io/badge/-@gabrielsyphan-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/gabrielsyphan/)](https://instagram.com/gabrielsyphan "Instagram") [![Telegram](https://img.shields.io/badge/-@gabrielsyphan-0088CC?style=flat&logo=Telegram&logoColor=white&link=https://t.me/gabrielsyphan/)](https://t.me/gabrielsyphan "Telegram") [![E-mail](https://img.shields.io/badge/-gabriel@raccoonbit.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:gabriel@raccoonbit.com)](mailto:gabriel@raccoonbit.com "E-mail")
 
 - 🧠 I'm a developer in search of knowledge, trying to delve as deeply as possible into software architecture.
 
