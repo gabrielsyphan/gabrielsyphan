@@ -1,4 +1,8 @@
-## Gabriel Syphan
+
+
+## Hi there, I'm Gabriel Syphan 👋
+
+<img src="assets/avatar.png" width="200px" align="right" alt="avatar gabrielsyphan" />
 
 - 🧠 I'm a Backend Software Engineer with a passion for software architecture
 
