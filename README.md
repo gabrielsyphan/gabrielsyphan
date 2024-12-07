@@ -8,7 +8,7 @@
 
 - 🎓 Graduating in Information Systems at the Federal Institute of Alagoas - IFAL Campus Maceió
 
-- 💻 I work mainly with Java Springboot, Docker, Mysql, Postgres, RabbitMq, Grafana, Prometheus and Angular
+- 💻 I work mainly with Java, Kotlin, Springboot, Docker, Mysql, Oracle, RabbitMq, Grafana, and Angular
 
 - 🏆 3º at the Open Innovation Tourism Hackathon in Maceió
 
